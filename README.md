@@ -13,7 +13,7 @@
 ## General info
 The purpose of this project is to serve as a platform to aid users in carrying endless conversations with their new friends on telegram, as facilitated by our wide diversity of categories and a website that brings users to explore even more. 
 
-With the increased amount of time spent online as opposed to face-to-face due to the pandemic, people may feel a sense of distance with their friends as conversations end quickly (or worse still, no one starts a conversations as they do not know what to talk about). Hence this bot and website will aid users in sustaining friendships through meaningful conversations and possible (covid-safe) explorations of Singapore. 
+With the increased amount of time spent online as opposed to face-to-face due to the pandemic, people may feel a sense of distance with their friends as conversations end quickly (or worse still, no one starts conversations as they do not know what to talk about). Hence this bot and website will aid users in sustaining friendships through meaningful conversations and possible (covid-safe) explorations of Singapore. 
 
 ## Screenshots
 ![If user chooses 'Food'](./img/screenshot.png)
