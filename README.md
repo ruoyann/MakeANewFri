@@ -31,13 +31,11 @@ Show examples of usage:
 
 ## Features
 List of features ready and TODOs for future development
-* 5 different Categories, with 5 questions each (Possible to increase number of categories and questions in the future) 
-* Website that links to other relevant websites (Possible to 
-* Awesome feature 3
+* 5 different Categories, with 5 questions each  
+* Website that links to other relevant websites  
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Increase number of categories and questions for each category 
 
 ## Status
 Project is: _finished_ but with room for improvement
