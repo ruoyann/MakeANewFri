@@ -18,7 +18,6 @@ With the increased amount of time spent online as opposed to face-to-face due to
 ## Screenshots
 ![Conversation with the Bot](https://github.com/ruoyann/MakeANewFri//Telebot Chat.jpg?raw=true)
 
-
 ## Technologies
 * Python - version 3.9
 
