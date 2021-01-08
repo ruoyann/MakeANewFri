@@ -25,10 +25,6 @@ With the increased amount of time spent online as opposed to face-to-face due to
 Go to the search bar in Telegram and enter "MakeANewFri"
 Enter '/start' to start interacting with the bot
 
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
-
 ## Features
 List of features ready and TODOs for future development
 * 5 different Categories, with 5 questions each  
