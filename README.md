@@ -16,7 +16,7 @@ The purpose of this project is to serve as a platform to aid users in carrying e
 With the increased amount of time spent online as opposed to face-to-face due to the pandemic, people may feel a sense of distance with their friends as conversations end quickly (or worse still, no one starts conversations as they do not know what to talk about). Hence this bot and website will aid users in sustaining friendships through meaningful conversations and possible (covid-safe) explorations of Singapore. 
 
 ## Screenshots
-![If user chooses 'Food'](file:///Users/yinruoyan/Desktop/Screenshot%202021-01-09%20at%203.17.25%20AM.png)
+![If user chooses 'Food'](https://postimg.cc/D4nJWTS8)
 
 ## Technologies
 * Python - version 3.9
